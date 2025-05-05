@@ -1,0 +1,12 @@
+{
+    "op": "41520",
+    "data": "14/04/2025",
+    "produto": "TAMPA CESTO FLOW 27 X 22 X 1,3 BRANCO FECHADO",
+    "quantidade": "206",
+    "tempo_ciclo": "120",
+    "tempo_homem": "2",
+    "tempo_maquina": "2",
+    "peso_peca": "",
+    "insumos": "Adesivo cola normal; Etiqueta adesiva; Etiqueta couche; Caixa master; Fita gomada",
+    "roteiro": "TFW300"
+}
